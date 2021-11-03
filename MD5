@@ -1,5 +1,6 @@
-c1a52066cb2fe66b5ca8481b22a6c5c9 *DESCRIPTION
+db0a9c6eedde3f6355ace8261b445c70 *DESCRIPTION
 72dc73a04d6fb966da7428f3e2a8962e *NAMESPACE
+6b6f6cfe51fee5d7b86693255fedf22b *NEWS
 bf19794a66dee3875e05eb37a5619770 *R/coef.R
 e07ef596b4d45d9623735f20ec45f672 *R/ladlasso.R
 18132af18fce4c1bc51e6f01dee8ef4b *R/lasso.R
@@ -9,6 +10,7 @@ e07ef596b4d45d9623735f20ec45f672 *R/ladlasso.R
 e43b989b0632d288df0a3e52a81107b0 *R/ridge.R
 5581295665e051664d7b48b56ea89094 *R/utils.R
 caf739e305c0fac8cd6655309deefaa0 *README.md
+b515611b4ad1ada67a70eed87f1d5217 *build/partial.rdb
 714660feb4ff57030da8abfe7a5d4b83 *data/Bundesliga.RData
 d8ac40d6342410c7015b4fa05693207e *data/TopGearMPG.RData
 7e827308376e74fa0a3d533237d97066 *inst/doc/examples/example-ladlasso.R
@@ -20,5 +22,5 @@ d0b9e56be1f45118223328eca32e446c *inst/doc/examples/example-perry.R
 35fd613b3d351a190646c50d5e2dcf9a *man/ladlasso.Rd
 f65fb62e3768b32ccfbe8eb90c3e69a0 *man/lasso.Rd
 35582554e75d3c454d2b85f3eae486b5 *man/perry-methods.Rd
-15d76d7c2e20a6fdd6b4830b8b9c0326 *man/perryExamples-package.Rd
+0491736c0782c0f2720aa13d1d972f34 *man/perryExamples-package.Rd
 0508fc3bdd36fe702d2bf9a858f8ec31 *man/ridge.Rd
